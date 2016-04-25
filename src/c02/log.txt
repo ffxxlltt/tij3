@@ -1,0 +1,6 @@
+
+JDK.version.check:
+    [javac] E:\Users\lenovo\workspace\tij3\src\c02\build.xml:31: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 1 source file
+[CheckVersion] Exception in thread "main" java.lang.RuntimeException: JDK 1.4.1 or higher is required to run the examples in this book.
+[CheckVersion] 	at com.bruceeckel.tools.CheckVersion.main(Unknown Source)
